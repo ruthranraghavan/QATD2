@@ -10,9 +10,9 @@
                     "stdio"
                 ],
                 "env": {
-                    "JIRA_URL": "YOUR_JIRA_URL",
-                    "JIRA_USERNAME": "YOUR_JIRA_USERNAME",
-                    "JIRA_API_TOKEN": "YOUR_JIRA_API_TOKEN"
+                    "JIRA_URL": "https://testometer-team-ruthran.atlassian.net/",
+                    "JIRA_USERNAME": "ruthran@testometer.co.in",
+                    "JIRA_API_TOKEN": "REMOVED"
                 }
             },
             "playwright": {
@@ -39,7 +39,7 @@
                 "command": "npx",
                 "args": ["-y", "@modelcontextprotocol/server-github@latest"],
                 "env": {
-                    "GITHUB_PERSONAL_ACCESS_TOKEN": "YOUR_GITHUB_PERSONAL_ACCESS_TOKEN"
+                    "GITHUB_PERSONAL_ACCESS_TOKEN": "REMOVED"
                 }
             }
         }
