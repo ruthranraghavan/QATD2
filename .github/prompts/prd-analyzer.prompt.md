@@ -2,7 +2,7 @@
 
 name: prd-analyzer
 description: Analyze PRD/SRS, identify ambiguities, generate improved requirements, coverage matrix, and QA artifacts.
-model: Gemini 3 Flash (Preview)
+model: Gemini 3 Flash (Preview) (copilot)
 tools: [execute, read, edit, search, web, agent, todo]
 --------------------------
 
